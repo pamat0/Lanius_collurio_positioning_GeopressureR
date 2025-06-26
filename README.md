@@ -12,7 +12,7 @@ Labelled data indicating migratory flights and stopovers is also provided.
 
 With our type of data, GeopressureR uses entire hours of flight.
 
-We considered one hour of flight in GeopressureR if the bird accelerometer recorded at least 7 out of 12 values with acc > 4.
+We considered one hour of flight in GeopressureR if the bird's accelerometer recorded at least 7 out of 12 values with accelerometer values > 4 within one hour.
 
 Minimum 1 hour 40 min of activity to be considered a migratory flight (100 activity; thus 2 hours of flight in geopressureR), 
 otherwise treated as different altitudes.
