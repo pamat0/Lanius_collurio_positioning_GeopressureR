@@ -4,13 +4,13 @@
 # Lanius collurio GeopressureR
 
 ## Description
-Position estimates from ambient pressure data for red-backed shrikes breeding in Denmark.
+Migration position estimates from ambient pressure data for red-backed shrikes breeding in Denmark.
 
-Data is provided for the accelerometer and pressure sensor of the loggers. 
+Raw data is provided for the loggers' accelerometer and pressure sensors. 
 
-Labelled data indicating migratory flights is also provided.
+Labelled data indicating migratory flights and stopovers is also provided.
 
-With our type of data GeopressureR uses entire hours of flight.
+With our type of data, GeopressureR uses entire hours of flight.
 
 We considered one hour of flight in GeopressureR if the bird accelerometer recorded at least 7 out of 12 values with acc > 4.
 
