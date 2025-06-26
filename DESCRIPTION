@@ -1,10 +1,10 @@
-Package: YourProjectName
+Package: Lanius collurio GeopressureR
 Title: These are the Goal of my Study (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-xxxx-xxxx-xxxx"))
-Description: More detailed description of my research objective and data (one paragraph).
+    person("Pablo", "Macías Torres", , "pablo.macias_torres@biol.lu.se@biol.lu.se", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-4503-164X"))
+Description: This repository provides the data and code to replicate the positioning of red-backed shrikes using GeopressureR.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Depends: 
