@@ -4,7 +4,7 @@
 # Lanius collurio GeopressureR
 
 ## Description
-Migration position estimates from ambient pressure data for red-backed shrikes breeding in Denmark.
+Migration position estimates from ambient pressure data recorded with multisensor data loggers built in Lund for Red-backed Shrikes (Lanius collurio) breeding in Denmark.
 
 Raw data is provided for the loggers' accelerometer and pressure sensors. 
 
