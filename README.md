@@ -19,3 +19,5 @@ This is especially important during the spring migration, when some short flight
 
 
 This repository was generated based on [GeoPressureTemplate (v1.2)](https://github.com/Rafnuss/GeoPressureTemplate).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18311205.svg)](https://doi.org/10.5281/zenodo.18311205)
