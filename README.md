@@ -6,6 +6,8 @@
 ## Description
 Migration position estimates from ambient pressure data recorded with multisensor data loggers built in Lund for Red-backed Shrikes (Lanius collurio) breeding in Denmark.
 
+LOGGER TYPE: CAnMove multi-sensor loggers (Lund University)
+
 Raw data is provided for the loggers' accelerometer and pressure sensors. 
 
 Labelled data indicating migratory flights and stopovers is also provided.
@@ -17,10 +19,9 @@ We considered one hour of flight in GeopressureR if the bird's accelerometer rec
 A minimum of 1 hour and 40 minutes of activity with values > 4 was needed to be considered a migratory flight (2 hours of flight in GeopressureR), otherwise the short flight is treated as different altitudes.
 This is especially important during the spring migration, when some short flights take place.
 
-
 This repository was generated based on [GeoPressureTemplate (v1.2)](https://github.com/Rafnuss/GeoPressureTemplate).
 
-A Zenodo datapackage forthis can be found in: 
+A Zenodo datapackage can be found in: 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18311205.svg)](https://doi.org/10.5281/zenodo.18311205)
 
 <img width="722" height="758" alt="image" src="https://github.com/user-attachments/assets/b8d38f3f-f9ae-4b29-821d-0446bbcae308" />
