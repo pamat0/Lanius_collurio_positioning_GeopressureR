@@ -20,4 +20,7 @@ This is especially important during the spring migration, when some short flight
 
 This repository was generated based on [GeoPressureTemplate (v1.2)](https://github.com/Rafnuss/GeoPressureTemplate).
 
+A Zenodo datapackage forthis can be found in: 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18311205.svg)](https://doi.org/10.5281/zenodo.18311205)
+
+<img width="722" height="758" alt="image" src="https://github.com/user-attachments/assets/b8d38f3f-f9ae-4b29-821d-0446bbcae308" />
